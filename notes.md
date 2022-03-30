@@ -9,3 +9,4 @@ Uppgift: representera namn o innehåll
 Lägg till o radera subalbum
 Lägg till o ta bort ljudfiler o visa deras info
 Kontrollera om album innehåller album eller viss ljudfil
+Vad är skillnaden mellan rot o subalbum, hur skiljer funktionaliteten sig och vad är samma?
